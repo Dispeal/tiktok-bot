@@ -1,2 +1,5 @@
-discord.py==2.3.2
-aiohttp==3.9.1
+anthropic
+# TikTok changes often; always install the newest yt-dlp (redeploy to update).
+yt-dlp
+httpx>=0.27
+PyYAML>=6
